@@ -1,0 +1,1 @@
+# __init__.py måste finnas för att äldre versioner av python ska förstå att mappen är ett paket
